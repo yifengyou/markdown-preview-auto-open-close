@@ -1,0 +1,35 @@
+{
+  "_id": "markdown-preview-auto-open-close@1.1.2",
+  "_inBundle": false,
+  "_location": "/markdown-preview-auto-open-close",
+  "_phantomChildren": {},
+  "_requiredBy": [
+    "#USER"
+  ],
+  "bugs": {
+    "url": "https://github.com/yifengyou/markdown-preview-auto-open-close/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "开启/关闭 Markdown 文件时自动开启/关闭预览功能(Automatically turn on/off preview when opening/closing Markdown files)",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/yifengyou/markdown-preview-auto-open-close#readme",
+  "keywords": [
+    "markdown",
+    "preview",
+    "auto",
+    "open",
+    "close"
+  ],
+  "license": "MIT",
+  "main": "./lib/markdown-preview-auto-open-close",
+  "name": "markdown-preview-auto-open-close",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yifengyou/markdown-preview-auto-open-close.git"
+  },
+  "version": "1.1.2"
+}
